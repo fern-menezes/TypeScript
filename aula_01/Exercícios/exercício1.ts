@@ -1,15 +1,13 @@
-import readlinesync = require('readline-sync');
+/*import readlinesync = require('readline-sync');
 
-const cores: Array<string> = new Array<string>(1);
+const cores: Array<string> = new Array<string>(5);
 
-cores[0] = readlinesync.question('Digite uma cor: ');
-cores[1] = readlinesync.question('Digite uma cor: ');
-cores[2] = readlinesync.question('Digite uma cor: ');
-cores[3] = readlinesync.question('Digite uma cor: ');
-cores[4] = readlinesync.question('Digite uma cor: ');
+while(true){
+    cores.push(readlinesync.question('Digite uma cor: '));
+    if(cores === )
+}
 
-
-
-//for(let cor of cores){
-    //console.log("Listar todas as cores: ", cores[i]);
-//}
+for(let cor of cores){
+    console.table("Cores inseridas: " + cores);
+}
+*/
