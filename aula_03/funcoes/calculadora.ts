@@ -61,8 +61,8 @@ do{
         console.log(" 1 - Soma               |    2 -  Subtração       ");
         console.log(" 3 - Multiplicação      |    4 -  Divisão         ");
         console.log("**************************************************");
-        console.log("Digite 0 para sair :)                             ");
-        console.log(colors.reset);
+        console.log("Digite 0 para sair :)                             ", colors.reset);
+        //console.log(colors.reset);
     
     }
     function about(){
