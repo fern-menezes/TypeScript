@@ -1,6 +1,5 @@
 import readlineSync = require('readline-sync');
 import { colors } from './colors';
-import { deflate } from 'zlib';
 
 let n1: number;
 let n2: number;
