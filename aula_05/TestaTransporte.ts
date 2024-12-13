@@ -1,6 +1,6 @@
-import { Terrestre } from "./terrestre"
+import { Terrestre } from "./Terrestre"
 import { Transporte } from "./transporte"
-import { Automovel } from "./automovel"
+import { Automovel } from "./Automovel"
 
 
 export function main(){

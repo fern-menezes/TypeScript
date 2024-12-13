@@ -1,4 +1,4 @@
-import { Terrestre } from "./terrestre";
+import { Terrestre } from "./Terrestre";
 
 export class Automovel extends Terrestre{
 
